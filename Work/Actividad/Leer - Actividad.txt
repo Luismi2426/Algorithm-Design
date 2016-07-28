@@ -1,0 +1,12 @@
+Diseño de Algoritmos 14/15
+Luis Miguel Barbero Juvera
+
+
+Para la selección de actividades hay dos clases:
+
+- Actividad: Se define Actividad y se dan métodos para manejarla
+- SeleccionActividades: Se resuelve el problema de seleccion de actividades. Para ello, se ordenan por tiempo de finalizacion.
+
+Además, se adjunta PruebaActividad.java y datosActividad.txt con los que se han hecho las pruebas.
+
+
